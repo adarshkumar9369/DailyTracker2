@@ -1,0 +1,3 @@
+-keep class com.dailytracker.app.data.local.entity.** { *; }
+-keep class com.dailytracker.app.data.model.** { *; }
+-keepattributes *Annotation*

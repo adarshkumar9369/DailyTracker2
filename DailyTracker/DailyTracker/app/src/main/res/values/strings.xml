@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Tracker</string>
+    <string name="channel_alarm_name">Persistent Task Alarms</string>
+    <string name="channel_alarm_desc">High-priority full-screen notifications and loud alarms for scheduled tasks</string>
+    <string name="channel_reminder_name">Task Status &amp; Missed Alerts</string>
+    <string name="channel_reminder_desc">Alerts for missed tasks and persistent repeat schedules</string>
+</resources>
